@@ -1,0 +1,3 @@
+A better display from lastlog
+lastlog | awk -f lastlog.awk
+lastlog -b 90 | awk -f lastlog.awk
